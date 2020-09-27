@@ -15,3 +15,9 @@ This asset is in an early stage and it may not be very performant or might have 
 It will be optimized through development stages.
 
 Using many dynamic HSPAudioSources may lower frame rates.
+
+# Demo Scene setup
+
+This package does not come with any audio tracks, in order to avoid copyright problems or stuff (i will prob. add a non copyrighted song later). 
+
+In order to use the demo scene you must download and set the audio track in the audio source.
