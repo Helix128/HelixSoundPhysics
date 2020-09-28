@@ -18,6 +18,6 @@ Using many dynamic HSPAudioSources may lower frame rates.
 
 # Demo Scene setup
 
-This package does not come with any audio tracks, in order to avoid copyright problems or stuff (i will prob. add a non copyrighted song later). 
+This package does not come with any audio tracks (i will make a simpler footstep demo later). 
 
 In order to use the demo scene you must download and set the audio track in the audio source.
